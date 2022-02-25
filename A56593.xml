@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ad testimonium a sermon on the King's day, February the 6th, 1685/6 at St Katharine Coleman's, London / by S.P.</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56593</idno>
+            <idno type="STC">Wing P737</idno>
+            <idno type="STC">ESTC R26859</idno>
+            <idno type="EEBO-CITATION">09570496</idno>
+            <idno type="OCLC">ocm 09570496</idno>
+            <idno type="VID">43649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43649)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1337:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ad testimonium a sermon on the King's day, February the 6th, 1685/6 at St Katharine Coleman's, London / by S.P.</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Leake for Henry Bonwike,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Sermons.</term>
+               <term>Bible. --  O.T. --  Psalms LXXII, 15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43649:1" rendition="simple:additions"/>
+            <p>—Ad Teſtimonium.</p>
+            <p>A SERMON ON THE KING's Day, <hi>February</hi> the 6<hi rend="sup">th</hi> 1685/6.</p>
+            <p>At S<hi rend="sup">t</hi> 
+               <hi>Katharine Coleman's, <hi>LONDON.</hi>
+               </hi>
+            </p>
+            <p>By <hi>S. P</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Leake,</hi> for <hi>Henry Bonwike,</hi> at the <hi>Red Lyon,</hi> in St. <hi>Paul</hi>'s <hi>Church-Yard.</hi> MDCLXXXVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:43649:2"/>
+            <pb n="1" facs="tcp:43649:2"/>
+            <head>A SERMON ON THE KING's Day.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSALM lxxij. the latter part of the 15.</hi> verſ.</bibl>
+                  <p>Prayer alſo ſhall be made for him conti<g ref="char:EOLhyphen"/>nually, and daily ſhall he be praiſed.</p>
+               </q>
+            </epigraph>
+            <p>THESE Words have in them a double Energie, both of <hi>Pray<g ref="char:EOLhyphen"/>er</hi> and <hi>Prophecy;</hi> they had likewiſe a double Completion both in <hi>Solomon</hi> and <hi>Chriſt.</hi> In the Prayers of all Holy Men, there is ſomething of <hi>Prophecy,</hi> they utter nothing but the Will of <hi>God;</hi> ſo <hi>God</hi> hears and ra<g ref="char:EOLhyphen"/>tifies
+<pb n="2" facs="tcp:43649:3"/>
+their requeſts: The Words likewiſe of dying Men are eſteemed more Prophetic than ordinary, and theſe are ſuppoſed to be the laſt Words, <hi>i. e.</hi> as ye have it in the 20. <hi>verſ.</hi> the laſt Prayers of this Religious King, made, it ſeems, at that time when <hi>Solomon,</hi> by <hi>David</hi>'s appointment, (that is by <hi>God</hi>'s appointment, for <hi>David</hi> herein obſerved the Will of <hi>God</hi>) was Proclaimed King.</p>
+            <p>The particulars of <hi>Solomon</hi>'s Inauguration are at large in the Firſt Chapter of the Firſt Book of <hi>Kings.</hi> We find there that in the lat<g ref="char:EOLhyphen"/>ter part of King <hi>David</hi>'s Reign, <hi>Adonijah, the Son of Haggith, exalted himſelf,</hi> and put in for the Succeſſion; not that he believed him<g ref="char:EOLhyphen"/>ſelf that he had a Title to the Crown, as he afterward confeſſed, <hi>Chap.</hi> ij. <hi>verſ.</hi> 15. but <hi>Joab</hi> and <hi>Abiathar,</hi> and ſome ſuch trou<g ref="char:EOLhyphen"/>bleſome Men, had put it in his Head; and that not for young <hi>Adonijah</hi>'s ſake, as <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> wiſely obſerves in the 22 <hi>verſ.</hi> but for their own Ambitious Ends. One would have thought, that that Declaration of King <hi>Da<g ref="char:EOLhyphen"/>vid</hi> to his Privy Council, 1 <hi>Chron.</hi> xxviij. had been ſufficient to blaſt all pretences of Uſurpation.</p>
+            <p>
+               <pb n="3" facs="tcp:43649:3"/>But theſe Diſturbances not only gave him new occaſion of declaring <hi>God</hi>'s will in <hi>Solo<g ref="char:EOLhyphen"/>mon</hi>'s Succeſſion, but of giving expreſs Com<g ref="char:EOLhyphen"/>mand for his <hi>Inauguration</hi> before his own death; he reſigned rather than bequeathed his Kingdom to him, and recreated his dy<g ref="char:EOLhyphen"/>ing hours with the publick Joy and Accla<g ref="char:EOLhyphen"/>mations of the People.</p>
+            <p>
+               <hi>David</hi> was well pleaſed with the <hi>Comple<g ref="char:EOLhyphen"/>ment</hi> that his <hi>Nobles</hi> made to him, ſaying,<note place="margin">1 King. i. 47.</note> 
+               <hi>God make the Name of Solomon better than thy Name, and make his Throne greater than thy Throne.</hi> Theſe Courtiers are ſaid to <hi>bleſs</hi> King <hi>David,</hi> and in ſuch a ſence he took it; for he bowed himſelf upon the Bed, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he <hi>worſhipped</hi> at thoſe <hi>au<g ref="char:EOLhyphen"/>ſpicious</hi> words, he nodded, he bowed, he worſhipped, and then he fell to Prayer and Prophecy.</p>
+            <p>I hope King <hi>David</hi> was no <hi>Flatterer,</hi> or <hi>Court-Paraſite,</hi> when he filled his Mouth with Prayer and Praiſe, and expreſſed ſo much pleaſure and ſatisfaction at his Son's Acceſſion to the Crown. In thoſe days it was no crime to be Zealouſly Loyal, to Wor<g ref="char:EOLhyphen"/>ſhip toward the <hi>Eaſt,</hi> and Adore the <hi>riſing Sun:</hi> He was not then eſteemed an Enemy
+<pb n="4" facs="tcp:43649:4"/>
+to <hi>David,</hi> or to the preſent Government of <hi>Iſrael,</hi> that ſtrew'd <hi>Aves and Welcomes</hi> in the <hi>new</hi> King's way, and forgot to think of a<g ref="char:EOLhyphen"/>ny thing but the expectation of <hi>new</hi> Bleſ<g ref="char:EOLhyphen"/>ſings.</p>
+            <p>
+               <hi>David</hi> by his own example had diſcoun<g ref="char:EOLhyphen"/>tenanced all intempeſtive Grief at the death of his firſt Child by <hi>Solomon</hi>'s Mother, and that without the Comforts of another to <hi>ſucceed</hi> in his Affection; and now at his own death he will not ſuffer 'em to be unmannerly in their Sorrow; but teaches the people to for<g ref="char:EOLhyphen"/>get him and look up towards his Son; and ſo they did as heartily as the King could wiſh, for <hi>they blew the Trumpet,</hi>
+               <note place="margin">
+                  <hi>Verſ.</hi> 39, 40.</note> 
+               <hi>and all the people ſaid, God ſave King Solomon: And all the people came up after him, and play'd upon Flutes, and rejoyced with great Joy; ſo that the Earth rent with the ſound of them.</hi> It was as if the whole Earth had open'd its mouth and ſang for Joy too; and all this ſo long before King <hi>David</hi> was <hi>cold in his Grave,</hi> that he him<g ref="char:EOLhyphen"/>ſelf was one to make up the Chorus. They blew the Trumpet and he Pray'd, they Re<g ref="char:EOLhyphen"/>joyced and he Propheſied; he prays to <hi>God</hi> for the Proſperity of his Succeſſor, and de<g ref="char:EOLhyphen"/>ſires that all his people might pray for it
+<pb n="5" facs="tcp:43649:4"/>
+too; and that not only for his Succeſſor's but for the People's ſake; and ſo he begins, <hi>He ſhall judge thy People with Righteouſneſs,</hi>
+               <note place="margin">
+                  <hi>Verſ.</hi> 2.</note> 
+               <hi>and thy Poor with Judgment.</hi>
+            </p>
+            <p>And indeed this <hi>Pſalm</hi> is not only a <hi>Pray<g ref="char:EOLhyphen"/>er</hi> to <hi>God,</hi> but an <hi>Admonition</hi> to the <hi>People;</hi> it is <hi>their</hi> Cauſe which he Pleads, and there<g ref="char:EOLhyphen"/>fore <hi>they</hi> muſt come in with their <hi>endea<g ref="char:EOLhyphen"/>vours: God</hi> hath perform'd his part in gi<g ref="char:EOLhyphen"/>ving 'em a juſt and righteous King to ſuc<g ref="char:EOLhyphen"/>ceed <hi>David;</hi> and now 'tis their parts to pray to <hi>God</hi> continually for him, to pray that <hi>God</hi> would continue him amongſt 'em, that ſo their Happineſs might continue for many Years; ſo likewiſe they are to Of<g ref="char:EOLhyphen"/>fer up <hi>Praiſes,</hi> they are to <hi>Praiſe the King daily,</hi> that is in effect, to Praiſe <hi>God</hi> for the King.</p>
+            <p>This is the Peoples Duty at all times, and this is our preſent Duty; it is the moſt particular <hi>buſineſs</hi> of this Day; we come here to pray for the King, we come to <hi>praiſe</hi> him and to <hi>praiſe God</hi> for him; it is the ſubject of the Text, and the ſubject of the Day; <hi>Prayer</hi> and <hi>praiſe:</hi> The only two principal parts into which my Text can be divided. <hi>Prayer alſo ſhall be made for him
+<pb n="6" facs="tcp:43649:5"/>
+continually, and daily ſhall he be praiſed.</hi>
+            </p>
+            <p>Firſt, Of Prayer; which is a <hi>duty</hi> incumbent upon <hi>all Subjects</hi> for <hi>all Princes, pro omnibus Imperatoribus,</hi> without any diſtinction. My method ſhall be this:</p>
+            <p>Firſt, To give you ſome Reaſons why this Duty ſhould be performed. And,</p>
+            <p>Secondly, I ſhall offer at ſome Directions in the performing it.</p>
+            <p n="1">I. The Obligations which Men lye under of Praying for their <hi>Soveraign Prince</hi> are <hi>Natural,</hi> and <hi>Political,</hi> as well as <hi>Divine.</hi>
+            </p>
+            <p>The Laws of Nature teach us to look up<g ref="char:EOLhyphen"/>on <hi>Kingly</hi> Government,<note place="margin">Non adulati<g ref="char:EOLhyphen"/>one vanâ ad<g ref="char:EOLhyphen"/>ducti, <hi>1 De Clem. 14.</hi>
+               </note> as a <hi>Paternal</hi> Functi<g ref="char:EOLhyphen"/>on. Every Prince paramount is Father of his Country, ſo we call them, ſaith <hi>Seneca, not by way of Flattery:</hi> So we find him mak<g ref="char:EOLhyphen"/>ing long Prayers for <hi>Nero,</hi>
+               <note place="margin">Ad Polyb. 31, 32.</note> even when he was <hi>diſgraced</hi> and <hi>exiled</hi> by him. Nothing being more <hi>Natural</hi> than for Children to Pray for the Proſperity of their <hi>Parents;</hi> from our <hi>Natural Parents</hi> we derive our <hi>Natu<g ref="char:EOLhyphen"/>ral Life,</hi> ſo from our <hi>Political Parents,</hi> our <hi>Po<g ref="char:EOLhyphen"/>litical Life:</hi>
+               <note place="margin">1 De Clem. 4.</note> The King is not only <hi>Caput &amp; Animus Reipublicae; ſed etiam Spiritus vitalis,</hi>
+               <pb n="7" facs="tcp:43649:5"/>
+the vital Spirit, the very Life of the King<g ref="char:EOLhyphen"/>dom; ſo that to pray for the King,<note place="margin">Quod bonum fauſtumque ſit tibi domu<g ref="char:EOLhyphen"/>ique tuae Cae<g ref="char:EOLhyphen"/>ſaer Auguſte, (ſic enim nos perpetuam fe<g ref="char:EOLhyphen"/>licitatem rei<g ref="char:EOLhyphen"/>publicae &amp; lae<g ref="char:EOLhyphen"/>ta huic prae<g ref="char:EOLhyphen"/>cari exiſti<g ref="char:EOLhyphen"/>mamus,) &amp;c. <hi>Suet. Aug. c. 58.</hi>
+               </note> is moſt correſpondent to the Firſt great <hi>Law</hi> of Na<g ref="char:EOLhyphen"/>ture, <hi>Self-preſervation;</hi> for hereby we pray for our own and the Kingdoms ſafety; ſo the Wiſe <hi>Senate</hi> of <hi>Rome</hi> reckon'd, when they pray'd for their Emperour <hi>Auguſtus:</hi> Nor do we read of any Nation or People, tho never ſo Barbarous, but their regard to their Prince, hath been the ſame as of Children to their <hi>Parents,</hi> the reaſons being the ſame. For,</p>
+            <p>Firſt, It is from the <hi>King</hi> that we have our <hi>Origination:</hi> For as amongſt the <hi>Jews</hi> to beget a Child, was not eſſentially <hi>neceſſary</hi> to be the <hi>Father</hi> of him, ſome being the <hi>Le<g ref="char:EOLhyphen"/>gal</hi> Children of one Man, which was the beſt and moſt Excellent Title, altho the <hi>Natural</hi> Children of another: So our <hi>Savi<g ref="char:EOLhyphen"/>our</hi> was the <hi>Legal</hi> Son of <hi>Joſeph</hi> and of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> tho by Nature the Son of <hi>Mary,</hi>
+               <note place="margin">Epiſcopius Inſtitut. Lib. 3. Sect. 4. l. 11.</note> who perhaps was of another <hi>Tribe:</hi> In like manner, tho we have a <hi>natural</hi> obligation to thoſe <hi>Pa<g ref="char:EOLhyphen"/>rents</hi> which begot us; yet we were Born <hi>legally</hi> from the influence of <hi>Government,</hi> we were born <hi>Children</hi> from <hi>natural Parentage,</hi> but Sons only from <hi>political</hi> Authority. It is
+<pb n="8" facs="tcp:43649:6"/>
+from the Laws, <hi>i. e.</hi> from the King, the Fountain of Laws, that we are Legitimate, without which every Man is but <hi>Filius populi,</hi> the Son of the people. So that every Rebel ſeems to <hi>Baſtardize</hi> his own Children, in <hi>reſiſting</hi> that <hi>Authority</hi> by which they call him <hi>Father;</hi> for tho the <hi>inſtitution</hi> of Marriage is an ordinance of <hi>God;</hi> yet the <hi>Circumſtances</hi> of its <hi>Solemnization</hi> are by <hi>Magiſtratual Ap<g ref="char:EOLhyphen"/>pointment,</hi> whereby we are to remember, that the King is our firſt <hi>Parent.</hi>
+            </p>
+            <p n="2">II. Secondly, it is from the King we have our daily <hi>Maintenance</hi> and <hi>Support;</hi> it is his Wiſdom and Power, that protects us from <hi>violence</hi> and <hi>wrong:</hi> Our Eſtates, our Lives, our All is under his <hi>Guardianſhip.</hi> Of the truth of which ſome of you here preſent are living Witneſſes. You remember the ſad time when there <hi>was no King in Iſrael;</hi> but it was worſe with you, than with the Old <hi>Iſralites,</hi> for they <hi>did every Man what ſeem'd good in his own Eyes;</hi> whilſt they that Sequeſtred your Eſtates, Plunder'd your Goods, and drove you into Want and Exile, committed ſuch Villanies as even out-dared their own Con<g ref="char:EOLhyphen"/>ſciences. 'Tis you can beſt tell, whether all that you at preſent enjoy is not <hi>owing</hi> unto
+<pb n="9" facs="tcp:43649:6"/>
+the King's ſafety, he is ſo much more than a Father, that without the Preſervation of his Royal Perſon, it is not in your power to keep your own Children from Starving; and therefore great reaſon have we, both to <hi>pray</hi> for him our ſelves, and to teach our Children to <hi>pray</hi> for him too.</p>
+            <p n="3">III. Thirdly, It is the King's Life and Preſervation that protects our own. The Shadow of his Wing is a Buckler to all his Subjects, a Buckler againſt all Foreign Vio<g ref="char:EOLhyphen"/>lence, and Domeſtic Blood-thirſtineſs: So was the Regal Authority unto the <hi>Iſralites</hi> of old, as we have frequent inſtances in the Book of <hi>Judges;</hi> for thoſe Judges were all <hi>Kings in Jeſhurun</hi> as well as <hi>Moſes,</hi>
+               <note place="margin">Deut. 33.5.</note> altho not Anointed no more then he. So when there was <hi>no Judge</hi> amongſt 'em, it is ſaid, There was <hi>no King in Iſrael,</hi> as that diſmal Story of the <hi>Levite</hi>'s Wife is Prefaced;<note place="margin">Judg. 19.1.</note> which one is a ſufficient inſtance of Domeſtic Villany and Barbarity. So every now and then we read of Invaſions, and ſuch Publick Calami<g ref="char:EOLhyphen"/>ties, as muſt needs happen to a Nation with<g ref="char:EOLhyphen"/>out a <hi>Head;</hi> there muſt needs be much Wrong either done or ſuffered, where there are no <hi>Eyes</hi> to ſee, nor <hi>Ears</hi> to hear, but
+<pb n="10" facs="tcp:43649:7"/>
+               <hi>Hands</hi> to pull down Ruin, or <hi>Feet</hi> ſwift to ſhed Blood.</p>
+            <p>And now, ſure here's worth and ſubject enough for a <hi>Prayer,</hi> that <hi>God</hi> would protect that Perſon by whom our Lives and Fortunes are protected. It is a Duty, and a very mo<g ref="char:EOLhyphen"/>deſt one too, to pray <hi>for</hi> Kings. Whereas ſome very wiſe Heathens made a miſtake and pray'd to 'em: But <hi>Nature, Reaſon</hi> and <hi>Tra<g ref="char:EOLhyphen"/>dition,</hi> are not Perſwaſives ſtrong enough to Men of corrupt practices, to bring 'em over to their Duty; let us ſee then how far it is <hi>encouraged,</hi> or rather <hi>commanded,</hi> in Holy Writ, for the People to pray for their Kings; tho ſome Men can't find any ſuch thing as Monarchy its ſelf in the Scriptures, without an Opprobrium by way of Appendix to it: For all that is there ſaid in the behalf of Monarchy, is not a ſufficient Ballance to the <hi>Eighth Chap. of the Firſt Book of Samuel,</hi> for from thence they infer, That <hi>God</hi> Almighty was <hi>angry</hi> with the <hi>Iſraelites</hi> for <hi>deſiring</hi> a Monarchical Government: Whereas the whole Current of Scripture proves this and no other to be <hi>jure Divino,</hi> even in the <hi>inter<g ref="char:EOLhyphen"/>regna,</hi> which were Governed by One only Prophet, or Seer; ſo that from <hi>Adam</hi> to <hi>Saul,</hi>
+               <pb n="11" facs="tcp:43649:7"/>
+and forwards, the whole Government was purely Monarchical. The <hi>Seventy Elders</hi> being no other than <hi>Juſtices</hi> or <hi>Counſellors,</hi> and therefore <hi>God</hi> was ſo far from being angry at their deſiring of a King, <hi>i. e.</hi> for deſi<g ref="char:EOLhyphen"/>ring of one,<note place="margin">Menaſſeh Ben Iſrael Conciliator. <hi>Q. in Deut. 6.</hi>
+               </note> that as the <hi>Jewiſh</hi> Rabbin tells us, they were commanded by <hi>God,</hi> That they ſhould do ſo, <hi>Statuendo ſtatues ſuper te Regem, Deut.</hi> 17.15. Their Crime was in the <hi>manner,</hi> the <hi>time,</hi> and the <hi>ends</hi> of their asking one: They ask'd with <hi>murmuring</hi> and <hi>mutiny,</hi> they ask'd <hi>importunately,</hi> rather de<g ref="char:EOLhyphen"/>manded than ask'd; and that for the <hi>Idola<g ref="char:EOLhyphen"/>trous end</hi> of being <hi>like other Nations;</hi> there<g ref="char:EOLhyphen"/>fore <hi>God</hi> ſaid to <hi>Samuel, Not thee but 'tis me that they reject:</hi> they were better pleaſed with their Vice-Roy <hi>Samuel,</hi>
+               <note place="margin">
+                  <hi>Verſ.</hi> 11.</note> then with their Emperour <hi>God;</hi> and it was but a Pretence for 'em to find fault with the Government, when it was the <hi>Religion</hi> that they would alter; and there is no queſtion, that if they had not had ſuch baſe <hi>purpoſes</hi> in their Heads, that <hi>God</hi> would have given 'em a King long before, without asking; that bleſſing was ſo long delay'd, becauſe <hi>God</hi> ſaw they were not Capacitated for receiving it. And when a Nation is not capable of <hi>Government</hi> (we
+<pb n="12" facs="tcp:43649:8"/>
+have had the ſad experience) <hi>God</hi> gives 'em up to <hi>Anarchy.</hi> A people muſt be ripe for Bleſſings before they can expect 'em, and then they muſt put 'em to a good Uſe, if they deſire their Continuance: And amongſt all the bleſſings that <hi>God</hi> hath promiſed his Church in this World, I take one of the greateſt to be, That Kings ſhould be its <hi>Nurſ<g ref="char:EOLhyphen"/>ing Fathers, and Queens its Nurſing Mo<g ref="char:EOLhyphen"/>thers.</hi> I am perſwaded, that hitherto it hath been the greateſt bleſſing. And ſo thoſe Chriſtians would have told you, that li<g ref="char:EOLhyphen"/>ved under the Reigns of <hi>Conſtantine, Theodo<g ref="char:EOLhyphen"/>ſius, Arcadius,</hi> and thoſe good Emperours; each of which did more good to Chriſt's Church in ſome reſpects, than all their Pre<g ref="char:EOLhyphen"/>deceſſors had done it Miſchief: They <hi>Nurſed</hi> it, and <hi>Cloathed</hi> it with Beauty and Glory, which before had lain in Rags and Nakedneſs, expoſed to Contempt and Danger, like <hi>Moſes</hi> among the Ruſhes. But St. <hi>Paul</hi> did not look ſo far as <hi>Conſtantine the Great,</hi> when he exhorts the Chriſtians, in <hi>the</hi> 2 <hi>Ch. of the</hi> 1 <hi>Ep. to</hi> Tim. <hi>That prayers and interceſſions, and giving of Thanks be made for Kings:</hi> He doth not ſay, I exhort you that about Three hundred Years hence, ye ſhall begin to Pray
+<pb n="13" facs="tcp:43649:8"/>
+for Kings; no <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e.</hi> if we make a Critical ſearch into the Word for the Emperors, for what elſe can it ſignifie? Who were Supream then but Emperors? And St. <hi>Peter</hi> expreſsly names the Supream;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 Pet. 2.13.</note> and a<g ref="char:EOLhyphen"/>gain 'twas, <hi>Fear God, Honour the Emperor;</hi> for 'tis the ſingular number, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <hi>Verſ.</hi> 17.</note> ſo this cannot be underſtood of Governors as <hi>Chriſti<g ref="char:EOLhyphen"/>ans,</hi> much leſs of the <hi>Reformed Religion,</hi> when at that time there was no ſuch denominati<g ref="char:EOLhyphen"/>on; but St. <hi>Paul</hi> and St. <hi>Peter meant,</hi> That they ſhould preſently pray for the Emperor in being, and the Emperors in ſucceſſion, as ſuch: For <hi>Nero</hi> as well as <hi>Conſtantine,</hi> for <hi>Diocleſian</hi> as well as <hi>Charlemaign,</hi> for <hi>Maho<g ref="char:EOLhyphen"/>met</hi> the IV. (had he been Emperor of the World) as well as for <hi>JAMES</hi> the II. in <hi>Great Britain</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>Now ſince the <hi>Roman</hi> Empire is broken, this Exhortation belongs to us; becauſe eve<g ref="char:EOLhyphen"/>ry King in his Kingdom is <hi>Emperor,</hi> and <hi>JAMES</hi> the II. (whom <hi>God</hi> preſerve) wears the <hi>Imperial</hi> Crown of this Realm. No<g ref="char:EOLhyphen"/>thing can bar <hi>Prayer</hi> no more than <hi>Allegi<g ref="char:EOLhyphen"/>ance:</hi> it is part of our Allegiance, and a moſt indiſpenſible Tribute. He that de<g ref="char:EOLhyphen"/>frauds the King of his Prayers had better de<g ref="char:EOLhyphen"/>fraud
+<pb n="14" facs="tcp:43649:9"/>
+him of his Coin; ſaving that ſuch a Man's Prayers would not do him ſo much good: This is <hi>God</hi>'s Due, and this is <hi>Caeſar</hi>'s Due; our Prayers to <hi>God,</hi> and for the King: So that with one Mite we may pay both Tributes. What remains then, but that we ſhould bethink our ſelves how to pay it; which leads me to the ſecond Undertaking, <hi>i. e.</hi> To give you ſome Directions how Pray<g ref="char:EOLhyphen"/>ers are to be made for him.</p>
+            <p>There are Two Qualifications neceſſary to all Prayers, <hi>heartineſs</hi> and <hi>ſincerity;</hi> the third is <hi>conſtancy,</hi> expreſſed here in my Text, by the word <hi>continually;</hi> ſo we are to pray for our King <hi>heartily, ſincerely,</hi> and <hi>continually.</hi>
+            </p>
+            <p>Firſt <hi>heartily,</hi> We are not to come to Church on ſuch days as this for faſhion-ſake, to a<g ref="char:EOLhyphen"/>void <hi>ſingularity,</hi> or a <hi>bad reputation;</hi> every good Man muſt bring a Zealous Heart along with him; a Heart full of Affectionate Du<g ref="char:EOLhyphen"/>ty and Loyalty, with Love and Hope in his Breaſt, and Joy in his Eyes: He muſt petition <hi>God</hi> for the King, as he would pe<g ref="char:EOLhyphen"/>tition the King for himſelf; with all the Ele<g ref="char:EOLhyphen"/>gancies of Intreaty, as if he would petition for a Kingdom: And then ſure he would mix a few Vows with his Prayers, ſomething or
+<pb n="15" facs="tcp:43649:9"/>
+other to diſtinguiſh 'em from common Peti<g ref="char:EOLhyphen"/>tions; at leaſt ways we ſhould pray with ſuch an <hi>emphaſis,</hi> as if we thought our ſelves quite undone, if <hi>God</hi> did not hear our Prayers, and ſo we may well think; for if <hi>God</hi> will not hear our Prayers for the <hi>King,</hi> 'tis a ſign he will not hear 'em <hi>at all.</hi> Let us have a care that thoſe Prayers be not luke-warm, for when <hi>God</hi> ſpits them out, he commonly ſpits 'em into the Cup of Indignation, that's the Cup of Anarchy, when the <hi>Prince and the Prieſt</hi> go off together; and then comes the Kingdom of Antichriſt:<note place="margin">Treatiſe of reſiſting the lawful Ma<g ref="char:EOLhyphen"/>giſtrate.</note> For the Pious and Learned Dr. <hi>Hammond</hi> proves every ſtubborn Subject to be a Limb of Antichriſt, who exalts himſelf above all that is called <hi>God.</hi> But,</p>
+            <p>Secondly, We are to pray for the King <hi>ſincerely, i. e.</hi> without any <hi>mental reſerves,</hi> or mixed <hi>equivocations:</hi> We muſt pray for the King in that ſence that the Church prays for him, in that ſence that the <hi>Primitive Church</hi> of Chriſt is wont to pray for their Emperors.<note place="margin">Apologet. &amp; ad Scap. c. 2. n. 11.</note> 
+               <hi>Tertullian</hi> gives us a taſt of thoſe Prayers, by which we may gueſs at the reſt. Firſt their Manner, <hi>We pray,</hi> ſaith he, <hi>for our Kings with our Hands ſtretched forth, becauſe
+<pb n="16" facs="tcp:43649:10"/>
+they are Innocent,</hi> they were never lifted up a<g ref="char:EOLhyphen"/>gainſt 'em; 2. <hi>With bare-Heads, becauſe we are not aſhamed,</hi> our Conſciences do not fly in our Faces, and reproach us with Hypocriſie. 3. Without any humane <hi>order or preſcription,</hi> be<g ref="char:EOLhyphen"/>cauſe we <hi>pray willingly and from the bottom of our Hearts.</hi> Now follows the form: <hi>Vitam illis prolixam; a long Life, a ſecure Throne, a ſafe Abode, a potent Army, a faithful Senate, a Conſcientious People, and a peaceable Empire:</hi> This was a ſincere and honeſt Prayer, ſuch a ſort of Prayer as we come here to make, without <hi>Parſimony</hi> and without <hi>Fraud.</hi> Let me then give you Three ſhort and general Directions in praying for the King.</p>
+            <p>
+               <hi>Firſt,</hi> To Pray for him as you would have <hi>others</hi> pray for <hi>you.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> To Pray for <hi>him</hi> as if you pray'd for your <hi>ſelves;</hi> and</p>
+            <p>
+               <hi>Thirdly,</hi> Let the Subject-matter of your Prayers be as <hi>ſincere</hi> and <hi>liberal</hi> as when <hi>he</hi> prays for <hi>you;</hi> we may know how that hath been by the effects: Be ſure they are ſuch Prayers as <hi>David</hi> and <hi>Solomon</hi> put up, the effects have been the ſame: <hi>Peace is within our Walls, and Proſperity within our Palaces.</hi>
+            </p>
+            <p>
+               <pb n="17" facs="tcp:43649:10"/>Beſides, methinks we are all grown better of late; a New <hi>Genius</hi> aſcends the <hi>Horizon.</hi> No doubt but from ſome <hi>new</hi> Cauſe, from our <hi>new</hi> King's prayers, <hi>For thou, O God,</hi>
+               <note place="margin">Pſal. 61.</note> 
+               <hi>haſt heard his Vows; thou haſt given him the heritage of thoſe that fear thy Name.</hi> Then let us all joyn in the Chorus: <hi>Thou wilt pro<g ref="char:EOLhyphen"/>long the King's Life; and his Years as many Generations. He ſhall abide before God for ever: O prepare mercy and truth, which may preſerve him. So will we ſing praiſe un<g ref="char:EOLhyphen"/>to thy Name for ever, and daily perform our Vows.</hi>
+            </p>
+            <p>Thirdly, We are to pray for him <hi>continual<g ref="char:EOLhyphen"/>ly. Prayer alſo ſhall be made for him continually:</hi> So that we come here to Day, but to learn what we are to do all the <hi>Year</hi> after. This is but a ſolemn Remonſtrance of what we reſolve to do all the Days of our Life; and reaſon good, if we continue to expect the bleſſed Effects of ſuch Prayers. Not that ſome Men's Omiſſion of Prayer, (no nor their Curſes) can do the King, and his Loyal Subjects, any harm: For <hi>God</hi> can rain down Bleſſings upon the <hi>Fleece,</hi> and let the Barren <hi>Ground</hi> remain dry; and ſo <hi>God</hi> can rain down Curſes upon the <hi>Ground,</hi> and
+<pb n="18" facs="tcp:43649:11"/>
+yet <hi>Gideon</hi>'s <hi>Fleece</hi> ſhall eſcape, every lock and hair of it. If ſome will not continually pray for the King, yet <hi>God</hi> will continual<g ref="char:EOLhyphen"/>ly bleſs him for their ſakes that do; at leaſt if the King prays for the People, <hi>God</hi> will return his Prayers upon his own Head: Thus much for Prayer.</p>
+            <p>The ſecond part is <hi>Praiſe:</hi> This is a more <hi>particular</hi> Duty, incumbent only for <hi>particu<g ref="char:EOLhyphen"/>lar Reaſons:</hi> Prayers for their Kings is the Duty of <hi>all</hi> Nations, but Praiſe only be<g ref="char:EOLhyphen"/>longs to <hi>Solomon,</hi> and ſuch Kings as <hi>Solomon</hi> was; and yet there is <hi>this</hi> Duty incumbent upon all Mankind, which is, To praiſe the Government, when they cannot praiſe the Perſon. The Character of a King, in the perſon of one Prince, is as <hi>Laudable, Divine,</hi> and <hi>Sacred,</hi> as in the perſon of another. They are all of them,<note place="margin">In Luk. 1.21.</note> as <hi>Calvin</hi> tells us, the Sons of <hi>God;</hi> they are ſo <hi>ex Officio,</hi> and <hi>Praiſe</hi> is as juſt a Debt to their <hi>Office,</hi> as <hi>Honor</hi> to their <hi>Perſons:</hi> Indeed there can be no Ho<g ref="char:EOLhyphen"/>nor without Praiſe. Praiſe is the reſult of Liking and Approbation; without which, Honor is no better than Mockery. But in this place the Holy <hi>Pſalmiſt</hi> doth not ſpeak of that Praiſe and Honor, which is univerſal<g ref="char:EOLhyphen"/>ly
+<pb n="19" facs="tcp:43649:11"/>
+due to all Princes, but of that extraor<g ref="char:EOLhyphen"/>dinary Praiſe, which his Succeſſor King <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> and all <hi>ſuch</hi> Princes <hi>as he,</hi> may juſt<g ref="char:EOLhyphen"/>ly claim. So here we are to conſider the Character of a Prince who is praiſe-worthy.</p>
+            <p>And here I have a fair opportunity of entring into a Panegyric upon that Glorious Prince, whoſe Praiſes we come hither to Ce<g ref="char:EOLhyphen"/>lebrate, as well as to offer up our Prayers for him: But I would willingly avoid all Invidiouſneſs, as well of the <hi>malevolent,</hi> for my <hi>Ambition,</hi> as of the <hi>Cenſorious,</hi> for my <hi>Preſumption,</hi> and yet I fear neither. But becauſe it is ſo co-incident with my Text, and moſt appropriate to the undoubted Sence of it, I ſhall give you a ſhort Chara<g ref="char:EOLhyphen"/>cter of that Prince for whom 'twas firſt made; that not only ours, but all Princes of thoſe Excellencies, may come in for their Dues.</p>
+            <p>
+               <hi>Firſt,</hi> He was a Prince of the moſt Celebra<g ref="char:EOLhyphen"/>ted <hi>Wiſdom and <g ref="char:V">Ʋ</g>nderſtanding</hi> in the World, this was his <hi>Natural</hi> Talent; which becauſe he had ſo well improved, <hi>God</hi> Almighty at his requeſt added to it: He was mature for Government, and well qualified for Empire; ſo that God ſent him to the People with a
+<pb n="20" facs="tcp:43649:12"/>
+Bleſſing in his Hand. It is the King's Wiſ<g ref="char:EOLhyphen"/>dom that is the Peoples Safety; and there<g ref="char:EOLhyphen"/>fore when <hi>God</hi> in <hi>Iſaiah</hi> threatens 'em to give 'em <hi>Children to be their Princes,</hi>
+               <note place="margin">
+                  <hi>Ch.</hi> 3. <hi>v.</hi> 4.</note> 
+               <hi>and Babes to rule over 'em;</hi> the Conſequences of ſuch a Government follow in the next <hi>verſ.</hi>
+               <note place="margin">
+                  <hi>Verſ.</hi> 5.</note> 
+               <hi>And the People ſhall be oppreſſed every one by another, and every one by his Neighbour.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> He was a moſt <hi>induſtrious</hi> Prince; he made his <hi>Duty</hi> his <hi>buſineſs,</hi> and very Con<g ref="char:EOLhyphen"/>ſcientiouſly conſidered the great Charge committed to him; he was always employ'd for the Peoples good, <hi>Vigilant</hi> and <hi>Active</hi> upon all occaſions. We read indeed, that in all his Reign the people had little elſe to do,<note place="margin">1 King. 4.25.</note> 
+               <hi>But to ſit down every Man under his Vine, and under his Fig-tree, from Dan even to Beer<g ref="char:EOLhyphen"/>ſheba, Eating and Drinking and making Merry;</hi> it was well for them; but you'l find the good King otherwiſe employ'd: His greateſt <hi>plea<g ref="char:EOLhyphen"/>ſure</hi> was, to ſee his People <hi>ſafe,</hi> and to be the <hi>Author</hi> of all thoſe <hi>pleaſures</hi> and <hi>com<g ref="char:EOLhyphen"/>forts</hi> that they enjoy'd, and which they could not enjoy, but by his <hi>pains</hi> and <hi>care.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> He was a King very eminent for <hi>Juſtice;</hi> which was one great effect of
+<pb n="21" facs="tcp:43649:12"/>
+his Wiſdom. 'Tis <hi>Solomon</hi>'s own Maxim, That a <hi>Prince that wants <g ref="char:V">Ʋ</g>nderſtanding is a great Oppreſſor;</hi> but a Prince of Underſtand<g ref="char:EOLhyphen"/>ing and Wiſdom, will never do, nor ſuffer Wrong. The Lawyers tell us, That the King <hi>cannot wrong</hi> his Subjects; and our Di<g ref="char:EOLhyphen"/>vinity-Books tell us,<note place="margin">Quia enim Deus vult honorari Su<g ref="char:EOLhyphen"/>periores, vult etiam ut ipſi honorem ſu<g ref="char:EOLhyphen"/>um tueantur. <hi>Pareus Corp. Doct. p. 3. Q. 104. Lib. 2.</hi>
+               </note> That he <hi>ought not</hi> to wrong himſelf. The King is as <hi>reſponſible</hi> to <hi>God</hi> for his <hi>own Honor,</hi> as for the <hi>peoples Safety:</hi> And that the rather, becauſe 'tis <hi>God</hi>'s Honor as well as his; but yet he had much of <hi>David</hi>'s Clemency and Mercy. I am ſure <hi>Paterculus</hi> would have thought ſo, if he had lived in his Reign; for he look'd upon it as a thing even incredible, <hi>Quod humanam excedat fidem:</hi> That <hi>Caeſar,</hi> who was but an Uſurper,<note place="margin">Afranius, Fauſtus, Scyl<g ref="char:EOLhyphen"/>la, Filia Pom<g ref="char:EOLhyphen"/>peii. <hi>Florus. Suet. Dio. Caſſ.</hi>
+               </note> ſhould ſpare thoſe that were of <hi>Pompey</hi>'s Faction; and yet we read of ſome great Perſons Executed upon that account, even <hi>L. Caeſar,</hi> his Kinſman, contrary to due form of Law.</p>
+            <p>
+               <hi>Fourthly,</hi> He was a Prince of great <hi>Con<g ref="char:EOLhyphen"/>ſtancy and Reſolution;</hi> he met with many difficulties in coming to the Crown, and even at his firſt Acceſſion, he was forced to encounter with an unnatural and danger<g ref="char:EOLhyphen"/>ous <hi>Rebellion:</hi> It was a difficult <hi>Juncto,</hi> and
+<pb n="22" facs="tcp:43649:13"/>
+required a ſteady Hand of Government. <hi>Tranquillo quilibet gubernator eſt;</hi>
+               <note place="margin">Adag. Vet. Sen. Ep. 86.</note> every one can Sail in a <hi>Calm</hi> Sea, but <hi>Storms</hi> and <hi>Tem<g ref="char:EOLhyphen"/>peſts</hi> make a proof of the Pilot.<note place="margin">Sal. Orat. ad <hi>Caeſ.</hi> 2.</note> It might be ſaid of him, as it was of <hi>Caeſar,</hi> His mind was greater in Adverſity than in Proſpe<g ref="char:EOLhyphen"/>rity. <hi>David</hi> was not afraid to leave him amongſt ſo many of his Enemies;<note place="margin">1 King. 2.9.</note> 
+               <hi>Thou art a Wiſe Man,</hi> ſaith he, <hi>and knoweſt what thou ought'ſt to do:</hi>
+               <note place="margin">1 Chr. 28.20.</note> 
+               <hi>Be ſtrong only and of good courage:</hi> That is, ſtrengthen thy ſelf, and be reſolute: It was <hi>verbum ſapienti;</hi> he did ſo.</p>
+            <p>
+               <hi>Laſtly,</hi> He was a Man of extraordinary <hi>Piety</hi> and <hi>Devotion;</hi> in this he ſhewed him<g ref="char:EOLhyphen"/>ſelf to be the true Son of Holy <hi>David.</hi>
+            </p>
+            <p>We are not to enquire, whether <hi>Solomon</hi> ſerved <hi>God</hi> with the ſame <hi>Circumſtances</hi> of Religion as <hi>David</hi> his Father: For ſo 'tis ſaid,<note place="margin">1 King. 3.3.</note> 
+               <hi>That Solomon loved the Lord, walking in the Statutes of David his Father.</hi> 'Tis true, from the Particle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>following,</hi> ſome Learned Men have inferr'd, That the <hi>outward</hi> circumſtan<g ref="char:EOLhyphen"/>ces of his Worſhip, were not altogether ſo laudable,<note place="margin">Deut. 12, 13, 14. 2 Chr. 1.3. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Targ. Jo<g ref="char:EOLhyphen"/>nath.</note> as his inward Sincerity and De<g ref="char:EOLhyphen"/>votion; becauſe, whereas there was but <hi>one</hi> legal High-place of Worſhip ordained by <hi>Moſes,</hi> he did <hi>nevertheleſs,</hi> in <hi>imitation of
+<pb n="23" facs="tcp:43649:13"/>
+the Antient Patriarchs,</hi>
+               <note place="margin">Diodat. in 1 King. 3.3.</note> permit their uſe in the plural number. But leaving this Diſpute to the more Learned, I here only take notice, That as this was not ſufficient to obſtruct <hi>God</hi>'s Indulgence, and great Love towards him; So it could be no bar to his people's Prayers and Praiſes: For as <hi>Solomon</hi> loved the Lord, ſo the Lord loved him; and bleſſed him with immenſity of Wiſdom and Juſtice; and this appears from the following paſſage, to be the undoubted <hi>Reward</hi> of his exemplary Piety.</p>
+            <p>And now, to ſumm up all: This incom<g ref="char:EOLhyphen"/>parable <hi>Wiſdom,</hi> this indefatigable <hi>Induſtry,</hi> this <hi>Juſtice, Reſolution, Conſtancy</hi> and <hi>Piety,</hi> might well deſerve the Acclamation and daily Applauſe of his people: And if <hi>Solomon</hi> did juſtly deſerve his peoples Praiſe, behold this Day a Prince not inferior to <hi>Solomon.</hi>
+            </p>
+            <p>The Wiſdom of this One Years Reign will equal all the Hiſtory of that Eaſtern Prince. And as for all thoſe other Qualifica<g ref="char:EOLhyphen"/>tions, which I have mentioned, it is but too plain, that I have ſtrain'd the Character of <hi>Solomon</hi> to make it bear ſome proportion with that of <hi>our</hi> King, and ſtill the faint Lines come ſhort of a Reſemblance: But if
+<pb n="24" facs="tcp:43649:14"/>
+undaunted Courage and Bravery in Battle, (a vertue that never was experienced in <hi>Solo<g ref="char:EOLhyphen"/>mon;</hi>) the voluntary Expoſing of his Royal Perſon for the Good of his Country; the repeated inſtances of his Love and Affections to it; and ſuch other his more <hi>peculiar</hi> and <hi>Characteriſtical</hi> vertues, were to be inſiſted upon; it would require ſuch Sentences as <hi>So<g ref="char:EOLhyphen"/>lomon</hi>'s to declare his Worth.</p>
+            <p>But I come not here to uſurp upon <hi>Fame</hi>'s Province; his Name is already ſpread as <hi>far</hi> as <hi>Solomon</hi>'s, and ſhall continue as long as his, as long as the World ſhall endure.</p>
+            <p>But ſure the Obligations of his Subjects to him are far greater than any People ever lay under, and ought therefore to be paid in the moſt dutiful and ſolemn Manner: That great Tribute of Praiſe as well as of Prayer.</p>
+            <p>Give me leave likewiſe herein to offer you ſome few Directions, and ſo I'll conclude. The Church directs us to praiſe <hi>God, not only with our Lips, but in our Lives,</hi> we may take the ſame inſtruction in Praiſing <hi>God</hi>'s Vice<g ref="char:EOLhyphen"/>gerent. He beſt praiſes the <hi>Lawgiver,</hi> who lives moſt conformable to his <hi>Laws;</hi> and the greateſt <hi>Panegyric</hi> upon <hi>Caeſar</hi> is, To Obey
+<pb n="25" facs="tcp:43649:14"/>
+his Commands; they are the only Flatterers, whoſe Hearts and Tongues do not go toge<g ref="char:EOLhyphen"/>ther; and 'tis our Duty to <hi>praiſe</hi> our Prince, and not to <hi>Flatter</hi> him. Nothing can be groſſer than to praiſe the King's Wiſdom, and yet at the ſame time to prefer our own above it: <hi>My Lord the King,</hi> ſaith <hi>Mephibo<g ref="char:EOLhyphen"/>ſheth, is as an Angel of God:</hi> But then he thought ſo as well as ſaid it; and therefore reſign'd all he had in the World to the King's diſpoſe. All Diſtruſt and Jealouſie is in<g ref="char:EOLhyphen"/>conſiſtent with Praiſe; for this muſt proceed from Love, and <hi>Love caſteth out Fear.</hi> We have a Prince, that of all Mankind ought the moſt to be truſted; becauſe it is not in our powers, to <hi>provoke</hi> him him more to break his Word than we have done. Our Provocations have been ſo great, That nothing but his Sa<g ref="char:EOLhyphen"/>cred Word could ſtand between us and his Anger. But this muſt not encourage us to uſe him ill; for tho the Decree for our Good is gone out of the King's Mouth, yet it is not ratified by <hi>God,</hi> without good Conditions. We have been grievous Delinquents, and are now but upon good Behavior; and Lives, as well as Hearts, are in <hi>God</hi>'s Hand.</p>
+            <p>
+               <pb n="26" facs="tcp:43649:15"/>
+               <note place="margin">Conc. Lat.</note>Biſhop <hi>Andrews</hi> terms Kings the <hi>treaſures</hi> of the People: If ſo, we at preſent have a moſt ineſtimable Treaſure. But then he bids us remember,<note place="margin">2 Cor. 4.7.</note> That we have theſe Treaſures in <hi>Earthen Veſſels:</hi> Let us have a great care, and uſe it tenderly, that we, together with our Prince, may ſee our <hi>Childrens Children, and peace upon Iſrael.</hi>
+            </p>
+            <p>Our Bleſſing is to us but a <hi>new Comer:</hi> we hardly know yet what it is that we en<g ref="char:EOLhyphen"/>joy. Conſider but one Particular, That the Engliſh Nation, for this laſt Year, hath been a greater Terror abroad, than for ſome Ages before; at leaſt-ways, 'tis in our power ſoon to be ſo; only by this, in not being a Terror to our ſelves. Let but the Engliſh Praiſe and Love their King, and all the World will ſoon ſtand in awe of him. Not that he truſts in his own ſtrength, or in the Arm of Fleſh, but in his <hi>God;</hi> in his Right, and in his Innocence. Witneſs that one Act of his, whereby in the <hi>Aſſembly</hi> now in being, he would not (what others would perhaps) have <hi>Excluded</hi> his <hi>Excluſioners.</hi>
+            </p>
+            <p>But there is no occaſion to be loud and importunate in our Praiſes, they'l be beſt underſtood by our being ſtill and quiet.
+<pb n="27" facs="tcp:43649:15"/>
+Let us all <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> make it our Ambition to be ſo. It ſhould be our <hi>Ambition,</hi>
+               <note place="margin">1 Theſ. 4.7.</note> be<g ref="char:EOLhyphen"/>cauſe it is our <hi>Intereſt;</hi> nay, we ſee it is to no purpoſe to be otherwiſe: It is but a folly to reſiſt ſo often, the plain and viſible Hand of Providence; the Injuries and Affronts that are done to Majeſty ſtill turn to Bleſſ<g ref="char:EOLhyphen"/>ings. And, as to our Prince in particular, <hi>God</hi> hath as plainly and manifeſtly protected him from all his Enemies; as if with our own Eyes we had ſeen him guarded with a Flaming Sword, or reſting his Head under an Angels Wing. <hi>God</hi> Almighty hath given him ſo many and ſuch ſignal Deliverances, that we ſhould be even Faithleſs, if we did not believe, that it can never be in the power of Men or Devils to hurt him. So that <hi>God will Reign, and the King will Reign, be the People never ſo unquiet.</hi>
+            </p>
+            <p>
+               <hi>God</hi> hath <hi>Judged the King,</hi>
+               <note place="margin">Pſ. 43.1.</note> 
+               <hi>and hath plead<g ref="char:EOLhyphen"/>ed his Cauſe againſt an ungodly Nation: He hath delivered him from the deceitful and unjuſt Man.</hi>
+               <note place="margin">Pſ. 18.20.</note> 
+               <hi>The Lord hath rewarded him according to his Righteouſneſs, according to the cleaneſs of his Hands, hath he recompenſed him.</hi>
+            </p>
+            <p>And now, the King will be ſure to live Peaceably and Quietly himſelf. He is reſol<g ref="char:EOLhyphen"/>ved
+<pb n="28" facs="tcp:43649:16"/>
+to ſtand faſt like a <hi>Rock</hi> in the midſt of <hi>his Ocean;</hi> neither the <hi>Raging Waves of the Sea, nor the Madneſs of the People,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hom. II. l. 1.</note> ſhall ever re<g ref="char:EOLhyphen"/>move him from his Cen<g ref="char:EOLhyphen"/>ter. He is reſolved to deſerve Praiſe, and to have it too, if not from his People, yet from his <hi>God.</hi>
+            </p>
+            <p>To conclude then with the Words of this <hi>Pſalm.</hi>
+            </p>
+            <q>
+               <p>His Name ſhall endure for ever, his Name ſhall be continued as long as the Sun, and Men ſhall be Bleſſed in him.</p>
+               <p>Bleſſed be the Lord God, the God of Iſ<g ref="char:EOLhyphen"/>rael, who only doth wondrous things: And Bleſſed be his Glorious Name for ever. <hi>Amen,</hi> and <hi>Amen.</hi>
+               </p>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43649:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
